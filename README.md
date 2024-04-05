@@ -18,7 +18,7 @@ The project successfully demonstrated the potential of the star electrode array 
 - `datasets/`: Contains the sEMG datasets collected during the project, across multiple sessions and with different electrode configurations.
 - `code/`: Includes all code developed for signal acquisition, signal processing, feature extraction, and classification tasks.
 - `cad/`: Houses the electronics CAD files for the star electrode array and control circuitry, enabling replication and further research.
-- `Documentation/`: Additional project documentation, including project report and presentation slides.
+- `docs/`: Additional project documentation, including project report and presentation slides.
 
 ## Contact
 For any inquiries or collaboration proposals, please contact [Shan](https://solderneer.me) at [sudhar393@gmail.com](mailto://sudhar393@gmail.com).
