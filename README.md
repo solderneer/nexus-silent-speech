@@ -1,5 +1,7 @@
-# Nexus, a session-indepedennt silent speech interface
+# Nexus, a session-independent silent speech interface
 A novel approach to session-independent silent speech recognition systems with a multiplexed star electrode array, developed for my final year dissertation at University College London (UCL). Includes datasets, code, and electronics CAD files.
+
+![](cover.png)
 
 ## Overview
 This repository houses my final year dissertation project at University College London (UCL), focused on developing a novel multiplexed star electrode array to address the challenges of cross-session variability in silent speech recognition systems. This innovative approach leverages configurable electrode orientations to significantly enhance the signal-to-noise ratio (SNR) of surface electromyography (sEMG) signals, leading to improved recognition accuracy across sessions.
