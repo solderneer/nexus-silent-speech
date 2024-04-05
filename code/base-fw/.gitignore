@@ -1,0 +1,24 @@
+# Ignore build output
+build/
+
+# Ignore managed components
+managed_components/
+
+# Ignore project configuration files
+sdkconfig
+sdkconfig.old
+
+# Ignore generated files
+*.bin
+*.elf
+*.map
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore system files
+.DS_Store
+Thumbs.db

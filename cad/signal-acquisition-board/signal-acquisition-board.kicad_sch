@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c6c2037b-4847-4b51-88cd-2a2d03cf9719")
+	(paper "A4")
+	(lib_symbols)
+	(no_connect
+		(at -1151.89 -22.86)
+		(uuid "8e4ea28e-4642-4db4-a9a0-3c2d0d7dff37")
+	)
+	(bus_entry
+		(at -1151.89 -22.86)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87ceda09-d69c-410f-a0d3-81fe7ae60c90")
+	)
+	(sheet
+		(at 22.86 44.45)
+		(size 36.195 5.715)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "31ce7126-dff1-45bb-b7da-b264ede8ca3e")
+		(property "Sheetname" "mcu"
+			(at 22.86 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32.kicad_sch"
+			(at 22.86 50.7496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "base-board"
+				(path "/c6c2037b-4847-4b51-88cd-2a2d03cf9719"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 31.75)
+		(size 36.195 6.35)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8827a997-4fbf-44c1-b5f0-613ad468c4cb")
+		(property "Sheetname" "power"
+			(at 22.86 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 22.86 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "base-board"
+				(path "/c6c2037b-4847-4b51-88cd-2a2d03cf9719"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 19.05)
+		(size 35.56 6.35)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d127ea89-02c5-45e6-b8f2-3bae39b72911")
+		(property "Sheetname" "analog"
+			(at 22.86 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "analog.kicad_sch"
+			(at 22.86 25.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "base-board"
+				(path "/c6c2037b-4847-4b51-88cd-2a2d03cf9719"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
